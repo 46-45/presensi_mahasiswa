@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046857032401",
+    "project_id": "presensi-mahasiswa-e50bc",
+    "storage_bucket": "presensi-mahasiswa-e50bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046857032401:android:f7167aadd8561acc14dbf0",
+        "android_client_info": {
+          "package_name": "com.example.presensi_mahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046857032401-a37kikgmgf8qi1d945mmro242a6j8ds4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNHiGxzMJOSyKc72nh-1HQGXinPVB7JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046857032401-a37kikgmgf8qi1d945mmro242a6j8ds4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
